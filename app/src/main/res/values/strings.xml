@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">快递宝</string>
+    <string name="title_text">Title Text</string>
+    <string name="Edit">Edit</string>
+    <string name="Back">Back</string>
+    <string name="Recycler">Next</string>
+    <string name="send">Send</string>
+</resources>
